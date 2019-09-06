@@ -1,0 +1,15 @@
+D:\EFutsal\Efutsal For Client\Efutsal For Client\bin\Debug\Efutsal For Client.exe.config
+D:\EFutsal\Efutsal For Client\Efutsal For Client\bin\Debug\Efutsal For Client.exe
+D:\EFutsal\Efutsal For Client\Efutsal For Client\bin\Debug\Efutsal For Client.pdb
+D:\EFutsal\Efutsal For Client\Efutsal For Client\obj\Debug\Efutsal_For_Client.Form1.resources
+D:\EFutsal\Efutsal For Client\Efutsal For Client\obj\Debug\Efutsal_For_Client.Properties.Resources.resources
+D:\EFutsal\Efutsal For Client\Efutsal For Client\obj\Debug\Efutsal For Client.csproj.GenerateResource.Cache
+D:\EFutsal\Efutsal For Client\Efutsal For Client\obj\Debug\Efutsal For Client.exe
+D:\EFutsal\Efutsal For Client\Efutsal For Client\obj\Debug\Efutsal For Client.pdb
+D:\EFutsal\Efutsal For Client\Efutsal For Client\bin\Debug\FireSharp.dll
+D:\EFutsal\Efutsal For Client\Efutsal For Client\bin\Debug\FireSharp.Serialization.JsonNet.dll
+D:\EFutsal\Efutsal For Client\Efutsal For Client\bin\Debug\Newtonsoft.Json.dll
+D:\EFutsal\Efutsal For Client\Efutsal For Client\bin\Debug\RestSharp.dll
+D:\EFutsal\Efutsal For Client\Efutsal For Client\bin\Debug\Newtonsoft.Json.xml
+D:\EFutsal\Efutsal For Client\Efutsal For Client\bin\Debug\RestSharp.xml
+D:\EFutsal\Efutsal For Client\Efutsal For Client\obj\Debug\Efutsal For Client.csprojResolveAssemblyReference.cache
